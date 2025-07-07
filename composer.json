@@ -1,5 +1,5 @@
 {
-    "name": "desalvatierra/myarenaapi",
+    "name": "foermaster/myarenaapi",
     "type": "library",
     "description": "Library for manage game servers of game hosting MyArena.Ru",
     "keywords": ["myarena", "game", "game hosting"],
